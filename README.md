@@ -3,7 +3,7 @@ Este repositorio contiene ejemplos y proyectos relacionados con el Análisis Exp
 
 ## Contenido
 
-- **Proyectos de EDA:** Este repositorio incluye una serie de proyectos y ejemplos que muestran el proceso de Análisis Exploratorio de Datos utilizando diversas fuentes de datos.
+- **Proyectos de EDA:** Este repositorio incluye una serie de ejemplos que muestran el proceso de Análisis Exploratorio de Datos utilizando datasets.
 - en el encontraras prediccion de producciones, analisis de propinas de un bar y la combinacion de distintos tipos de graficos para distintas situaciones de un dataset utilizando estas librerias
   
 - **Notebooks y Código:** Encontrarás archivos Jupyter Notebooks (con extensión .ipynb) y scripts de Python que demuestran el uso de cada codigo.

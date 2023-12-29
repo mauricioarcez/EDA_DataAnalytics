@@ -1,6 +1,4 @@
 # EDA_DataAnalytics
-EDA. Es una tecnica para analizar y resumir datos de manera visual y estadística para una toma de decisiones
-
 Este repositorio contiene ejemplos y proyectos relacionados con el Análisis Exploratorio de Datos (EDA) utilizando bibliotecas de Python como Pandas, Matplotlib, Seaborn y NumPy.
 
 ## Contenido
